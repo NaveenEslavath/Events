@@ -1,0 +1,15 @@
+.active-event-details {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.view-image {
+  width: 150px;
+  height: 150px;
+  margin-bottom: 16px;
+}
+
+.view-content {
+  font-size: 18px;
+  color: #555;
+}
